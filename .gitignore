@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+node_modules/
+frontend/dist/
+frontend/node_modules/
+# regenerable data (python -m ml.ingest / clean / features)
+data/raw/
+data/processed/
+reports/test_predictions.parquet
+reports/alert_predictions_*.parquet
+reports/*_log.txt
+*.log
+.env.local
