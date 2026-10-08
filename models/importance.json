@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "current PM2.5",
+    "importance": 13.971
+  },
+  {
+    "feature": "PM2.5 1 h ago",
+    "importance": 2.568
+  },
+  {
+    "feature": "city location",
+    "importance": 1.285
+  },
+  {
+    "feature": "time of year",
+    "importance": 1.171
+  },
+  {
+    "feature": "carbon monoxide",
+    "importance": 1.105
+  },
+  {
+    "feature": "average PM2.5 over the last 7 days",
+    "importance": 0.871
+  },
+  {
+    "feature": "PM2.5 7 days ago",
+    "importance": 0.865
+  },
+  {
+    "feature": "rain in the last 24 h",
+    "importance": 0.724
+  },
+  {
+    "feature": "temperature",
+    "importance": 0.576
+  },
+  {
+    "feature": "cloud cover",
+    "importance": 0.576
+  },
+  {
+    "feature": "PM2.5 3 days ago",
+    "importance": 0.568
+  },
+  {
+    "feature": "time of day",
+    "importance": 0.522
+  },
+  {
+    "feature": "peak PM2.5 over the last 7 days",
+    "importance": 0.471
+  },
+  {
+    "feature": "peak PM2.5 over the last 6 h",
+    "importance": 0.449
+  },
+  {
+    "feature": "air pressure",
+    "importance": 0.4
+  },
+  {
+    "feature": "air stagnation (calm, high pressure)",
+    "importance": 0.379
+  },
+  {
+    "feature": "wind direction",
+    "importance": 0.362
+  },
+  {
+    "feature": "aerosol load",
+    "importance": 0.239
+  },
+  {
+    "feature": "average PM2.5 over the last 6 h",
+    "importance": 0.232
+  },
+  {
+    "feature": "recent PM2.5 trend",
+    "importance": 0.231
+  }
+]

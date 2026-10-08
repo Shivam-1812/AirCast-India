@@ -1,0 +1,20 @@
+{
+  "lgbm": {
+    "num_leaves": 17,
+    "learning_rate": 0.030406135265809146,
+    "n_estimators": 417,
+    "min_child_samples": 46,
+    "colsample_bytree": 0.8680234985792621,
+    "subsample": 0.5412239122186641,
+    "reg_lambda": 0.4766869542052203
+  },
+  "xgb": {
+    "max_depth": 3,
+    "learning_rate": 0.033144055847531106,
+    "n_estimators": 565,
+    "min_child_weight": 6,
+    "colsample_bytree": 0.6816126521096678,
+    "subsample": 0.6223697680662112,
+    "reg_lambda": 26.106834308094268
+  }
+}
